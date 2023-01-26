@@ -3,7 +3,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **SASS y React JS**
 
-- 👨‍💻 All of my projects are available at [https://walter-taramasco.netlify.app/](https://walter-taramasco.netlify.app/)
+- 👨‍💻 Mis proyectos están disponibles en [https://walter-taramasco.netlify.app/](https://walter-taramasco.netlify.app/)
 
 - 📫 Cómo contactar conmigo **contacto.walterweb@gmail.com**
 
