@@ -5,7 +5,7 @@
 
 - 👨‍💻 Mis proyectos están disponibles en [https://walter-taramasco.netlify.app/](https://walter-taramasco.netlify.app/)
 
-- 📫 Cómo contactar conmigo **contacto.walterweb@gmail.com**
+- 📫 Cómo contactar conmigo **waltertaramasco12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
